@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.section-bg-img{
+    background-image: url('	https://themewant.com/products/wordpress/kester-baseball/wp-content/uploads/2023/10/league.webp');
+    background-size: cover;
+    
+}
